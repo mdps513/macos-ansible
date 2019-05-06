@@ -1,0 +1,9 @@
+packages:
+  - { name: alfred, state: present }
+  - { name: iterm2, state: present }
+  - { name: google-chrome, state: present }
+  - { name: visual-studio-code, state: present }
+  - { name: slack, state: present }
+  - { name: spotify, state: present }
+  - { name: boostnote, state: present }
+  - { name: station, state: present }
